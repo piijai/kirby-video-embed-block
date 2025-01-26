@@ -1,9 +1,9 @@
 {
   "name": "kirby-video-embed",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Embed video block",
   "main": "index.js",
-  "repository": "git@github.com:vyder/kirby-video-embed-block.git",
+  "repository": "git@github.com:piijai/kirby-video-embed-block.git",
   "author": "Vidur Murali <vidur@monkeychai.com>",
   "license": "MIT",
   "private": false,
