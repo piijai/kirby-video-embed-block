@@ -1,0 +1,37 @@
+{
+  "name": "piijai/kirby-video-embed-block",
+  "description": "Embed video block",
+  "type": "kirby-plugin",
+  "license": "MIT",
+  "version": "1.0.1",
+  "authors": [
+    {
+      "name": "Vidur Murali",
+      "email": "vidur@monkeychai.com"
+    },
+    {
+      "name": "Philipp Jetschina",
+      "email": "kontakt@jetschina.de"
+    }
+  ],
+  "keywords": [
+    "kirby",
+    "kirby-cms",
+    "kirby-plugin",
+    "video",
+    "embed",
+    "video-embed"
+  ],
+  "require": {
+    "getkirby/cms": "^4.0",
+    "getkirby/composer-installer": "^1.2"
+  },
+  "extra": {
+    "kirby-cms-path": false
+  },
+  "config": {
+    "allow-plugins": {
+      "getkirby/composer-installer": true
+    }
+  }
+}
