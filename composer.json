@@ -3,7 +3,7 @@
   "description": "Embed video block",
   "type": "kirby-plugin",
   "license": "MIT",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "authors": [
     {
       "name": "Vidur Murali",
@@ -23,8 +23,8 @@
     "video-embed"
   ],
   "require": {
-    "getkirby/cms": "^4.0",
-    "getkirby/composer-installer": "^1.2"
+    "getkirby/cms": "^4.0" || "^5.0",
+    "getkirby/composer-installer": "^1"
   },
   "extra": {
     "kirby-cms-path": false
